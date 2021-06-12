@@ -1,0 +1,20 @@
+15 20 200
+          X X X
+ XX            
+ XX          XX
+    XXX   XXX  
+           X X 
+               
+               
+               
+               
+          XXXXX
+ XX          XX
+               
+    XXX   XXX  
+           X X 
+               
+    XXX   XXX  
+           X X 
+               
+ XX          XX
